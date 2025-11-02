@@ -1,0 +1,14 @@
+{
+    "name": "BanglaBasic",
+    "version": "1.0.0",
+    "description": "Bangla language educational JSON database by TAWHID ISLAM SIAM",
+    "main": "src/index.js",
+    "scripts": {
+        "start": "node src/index.js"
+    },
+    "author": "TAWHID ISLAM SIAM",
+    "license": "MIT",
+    "dependencies": {
+        "express": "^4.19.2"
+    }
+}
